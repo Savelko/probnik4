@@ -1,0 +1,159 @@
+
+#img{
+opacity: 50%;
+width: 100%;
+height: 700px;
+}
+.description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+}
+.description h1{
+text-align:center;
+ color:light;
+}
+.description p{
+ color:#666;
+ font-size: 20px;
+
+ line-height: 1.5;
+ text-align:center;
+}
+.description button{
+ border:1px  solid #F97300;
+ background:#FFC500;
+ color:#fff;
+}
+.header{
+ background-image: url('../images/headerback.jpg');
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
+.navbar{ background:Light;}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+.blog{
+ margin: 4em 0;
+ position: relative; 
+}
+.blog h1{
+ color:Dark;
+ margin: 2em; 
+}
+.blog .card{
+ box-shadow: 0 0 20px #ccc;
+}
+.blog .card img{
+ width: 100%;
+ height: 12em;
+}
+.blog .card-title{
+ color:Dark;
+  text-align:center;
+}
+.blog .card-body{
+ padding: 1em;
+}
+.d2{
+    position: absolute;
+    top: 190%;
+    margin: auto;
+    padding: 2em;
+}
+.d2 h1{
+text-align:center;
+ color:#fff;
+}
+.d2 p{
+ color:#666;
+ font-size: 20px;
+
+ line-height: 1.5;
+ text-align:center;
+}
+.d2 button{
+ border:1px  solid #F97300;
+ background:#FFC500;
+ color:#fff;
+}
+.portfolio{
+	top:170%;
+ margin: 4em 0;
+    position: relative; 
+}
+.portfolio h1{
+ text-align: center;
+ color: #FFC500;
+}
+.portfolio h4{
+ text-align: center;
+ color: black;
+}
+.portfolio p{
+ text-align: center;
+}
+.polosa{
+	top :390%;
+width:100%;
+height:150px;
+background-color:orange;
+}
+.polosa h1{
+text-align:center;
+color:#fff;
+}
+.portfolio2{
+ margin: 4em 0;
+    position: relative; 
+}
+.portfolio2 h4{
+	text-align: left;
+ color:Light;
+ margin: 2em; 
+}
+.portfolio2 p{
+	font-size: 10px;
+text-align: left;
+}
+.portfolio2 button{
+ border:1px  solid #F97300;
+ background:#FFC500;
+ color:#fff;
+}
+.portfolio2 img{
+  height: 15rem;
+  width: 100%;
+  margin: 1em;
+}
+
+.polosa2{
+height:50px;
+background-color: #ffd700;
+ text-align: center;
+ font-weight: 600;
+ color: white;
+ font-size: 25px;
+ padding-top:7px;}
+ 
+
+#height{
+height:45px;
+}
+.lastlanding{
+height:300px;
+background-image:url("New-York.jpg");
+ text-align: center;
+ font-weight: 100%;
+ color: white;
+ font-size: 30px;
+ padding-top:50px;}
+ .lastlanding button{
+ border:1px  solid #F97300;
+ background:#FFC500;
+ color:#fff;
+}
